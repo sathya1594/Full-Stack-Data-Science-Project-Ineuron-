@@ -1,1 +1,1 @@
-# Full-Stack-Data-Science-Project-Ineuron
+# Full Stack Data Science Project (Ineuron)
